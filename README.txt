@@ -9,4 +9,6 @@ Developers:
 About Vermibin:
 	Vermibin is a small vermicomposting bin that people can use to maintain quality fertilizers
 	produced from vermicultures. The hardware composition includes a small bin with temperature
-	and moisture sensors, a sprinkler, a Thermoelectric Cooler and 
+	and moisture sensors, a sprinkler, a temperature control module.
+
+Hypotheses in the System:
